@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge&logo=open-source-initiative" alt="Open Source Love" />
 </p>
 
----
+<h3 align="center">👋 Welcome to my GitHub! I'm a Data Science student turning data into decisions.</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 About Me
 
@@ -40,7 +42,7 @@
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ⚡ Tech Stack
 
@@ -75,7 +77,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔥 Featured Project
 
@@ -87,7 +89,7 @@
 
 > 🚦 **Urban City Analysis ML** — Predicting crime occurrence, accident severity & passenger count using ensemble ML methods (Random Forest, Gradient Boosting, Stacking Classifier) with full preprocessing pipelines, cross-validation & interactive CLI.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -111,7 +113,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharm1123&theme=github-dark&hide_border=true&area=true&custom_title=Dharm%20Dudhagara%27s%20Contribution%20Graph" alt="Activity Graph"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -119,7 +121,7 @@
   <img src="https://raw.githubusercontent.com/dharm1123/dharm1123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Profile Summary
 
@@ -127,7 +129,17 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharm1123&theme=github_dark" alt="Profile Details"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-29+-58a6ff?style=flat-square&labelColor=0d1117" alt="Commits"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repos-2+-58a6ff?style=flat-square&labelColor=0d1117" alt="Repos"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-58a6ff?style=flat-square&labelColor=0d1117" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Language-Python%20🐍-58a6ff?style=flat-square&labelColor=0d1117" alt="Language"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌱 Currently Exploring
 
@@ -139,7 +151,24 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-Exploring-4CAF50?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Certifications & Achievements
+
+<details>
+<summary>📜 Click to expand</summary>
+<br>
+
+| 🏅 Certification | 🏫 Issuer | 📅 Status |
+|---|---|---|
+| MSc in Data Science | University | ✅ In Progress |
+| Python for Data Science | Self-paced | ✅ Completed |
+| Machine Learning Fundamentals | Self-paced | ✅ Completed |
+| Data Visualization with Python | Self-paced | ✅ Completed |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💬 Dev Quote
 
@@ -147,7 +176,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -156,14 +185,27 @@
     <img src="https://img.shields.io/badge/LinkedIn-Dharm%20Dudhagara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
+  <a href="https://www.kaggle.com/dharmdudhagara">
+    <img src="https://img.shields.io/badge/Kaggle-dharmdudhagara-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dharmdudhagara11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dharmdudhagara11-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/dharm1123">
     <img src="https://img.shields.io/badge/GitHub-dharm1123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">⚡ Fun fact: I train ensemble models while my coffee cools down ☕</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-I%20train%20ensemble%20models%20while%20my%20coffee%20cools%20down%20☕-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Fun Fact"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Goal%202025-Publish%20first%20ML%20research%20paper-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Goal"/>
+</p>
 <p align="center">Thanks for visiting! 🙌 Feel free to explore my work and connect.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:161b22,100:0d1117&height=120&section=footer"/>
