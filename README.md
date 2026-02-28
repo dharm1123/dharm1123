@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/dharm1123/Urban-City-Analysis-ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharm1123&repo=Urban-City-Analysis-ML&theme=github_dark&hide_border=true" alt="Urban-City-Analysis-ML"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharm1123&repo=Urban-City-Analysis-ML&theme=github_dark&hide_border=true&cache_seconds=86400&show_owner=true" alt="Urban-City-Analysis-ML"/>
   </a>
 </p>
 
@@ -92,17 +92,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharm1123&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharm1123&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharm1123&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dharm1123&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=dharm1123&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharm1123&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&langs_count=8" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharm1123&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dharm1123&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharm1123&theme=github-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharm1123&theme=github-dark&hide_border=true&area=true&custom_title=Dharm%20Dudhagara%27s%20Contribution%20Graph" alt="Activity Graph"/>
 </p>
 
 ---
