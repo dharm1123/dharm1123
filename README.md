@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/dharm1123/Urban-City-Analysis-ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharm1123&repo=Urban-City-Analysis-ML&theme=github_dark&hide_border=true&cache_seconds=86400&show_owner=true" alt="Urban-City-Analysis-ML"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=dharm1123&data=repositories&theme=darkmode" alt="Featured Repositories"/>
   </a>
 </p>
 
@@ -92,13 +92,19 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharm1123&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=dharm1123&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharm1123&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&langs_count=8" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharm1123&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dharm1123&theme=github_dark" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharm1123&theme=github_dark" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dharm1123&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharm1123&theme=github_dark" alt="Repos Per Language"/>
 </p>
 
 <p align="center">
@@ -119,10 +125,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharm1123&theme=github_dark" alt="Profile Details"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dharm1123&theme=github_dark" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharm1123&theme=github_dark" alt="Repos Per Language"/>
 </p>
 
 ---
