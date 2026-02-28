@@ -116,7 +116,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/dharm1123/dharm1123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
