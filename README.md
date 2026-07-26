@@ -1,6 +1,6 @@
 ## Hi, I'm Dharm Dudhagara 👋
 
-**AI / ML Enthusiast | MSc Data Science | Data Science & ML Intern @ BrainyBeam Info-Tech**
+**AI / ML Enthusiast | MSc Data Science **
 
 📍 Jamnagar, Gujarat, India &nbsp;|&nbsp; 📧 [dudhagaradharm53@gmail.com](mailto:dudhagaradharm53@gmail.com) &nbsp;|&nbsp; 📞 +91 9265173633
 
