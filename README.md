@@ -32,7 +32,7 @@ Passionate AI/ML enthusiast and MSc Data Science graduate with hands-on experien
 ### 💼 Work Experience
 
 **Data Science & Machine Learning Intern** &nbsp;·&nbsp; BrainyBeam Info-Tech Pvt. Ltd., Ahmedabad
-`Jan 2026 – Present`
+`Jan 2026 – Apr 2026`
 
 - Applying Python, data preprocessing and ML techniques to real-world industry problems
 - Working across data analytics workflows, model development and AI solution deployment
